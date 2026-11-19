@@ -15,3 +15,7 @@ A simple digital clock built with React, Vite, and `date-fns` that displays the 
    ```
 
 3. Open the local URL shown in your terminal (usually `http://localhost:5173`) in your browser.
+
+## Screenshot
+
+![Digital Clock Screenshot](./screenshot.png)
